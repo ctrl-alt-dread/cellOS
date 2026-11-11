@@ -1,5 +1,5 @@
 # cellOS
-16bit x86 OS/framework
+16bit x86 OS/framework (flat assembly)
 
 i worked very hard and dear on this project
 
